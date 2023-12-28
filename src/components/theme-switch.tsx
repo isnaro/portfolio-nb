@@ -2,8 +2,6 @@ import { useTheme } from "../context/theme-context";
 import {
   BsMoon,
   BsSun,
-  BsInstagram,
-  BsLinkedin,
   BsFillEnvelopeAtFill,
   BsGithub,
   BsDiscord,

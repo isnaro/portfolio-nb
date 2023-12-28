@@ -52,7 +52,7 @@ const BannerQuote: React.FC<BannerProps> = ({
             <h2 className="text-[--black] text-center text-9xl mb-20 mt-20 max-lg:text-[3rem] max-lg:mb-10 max-lg:leading-tight">
               {quoteTranslation}
             </h2>
-            <p className="text-[--grey]">{quotesData[0].author1}Thomas J. Watson Jr</p>
+            <p className="text-[--grey]">Thomas J. Watson Jr</p>
           </div>
         </div>
       </section>

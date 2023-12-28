@@ -138,7 +138,7 @@ const ProjectSlider: React.FC = () => {
                       />
                       <Button
                         label="Watch on IG"
-                        link={project.igposturl}
+                        link={project.githuburl}
                         iconSVG={project.iglogo}
                         buttoncolor={project.colors.main}
                         iconcolor={project.colors.icon}
@@ -179,7 +179,7 @@ const ProjectSlider: React.FC = () => {
                   />
                   <Button
                        label="Watch on IG"
-                       link={project.igposturl}
+                       link={project.githuburl}
                       iconSVG={project.iglogo}
                        buttoncolor={project.colors.main}
                       iconcolor={project.colors.icon}
