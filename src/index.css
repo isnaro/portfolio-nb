@@ -19,7 +19,7 @@
   font-family: "poppins-regular";
   src: url("./assets/fonts/font1.woff2");
 }
-@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
 
 body {
   font-family: 'Noto Naskh Arabic', sans-serif;
@@ -27,7 +27,7 @@ body {
 
 /* Target elements with Arabic text */
 .arabic-text {
-  font-family: 'Arabic UI Display Black', sans-serif;
+  font-family: 'Noto Kufi Arabic', sans-serif;
 }
 
 
