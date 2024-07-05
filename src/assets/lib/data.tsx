@@ -318,7 +318,7 @@ export const quotesData = [
 ] as const;
 
 export const aboutMeData = {
-  title: "عني",
+  title: "حولي",
   title_EN: "About me",
   description: "بعض المعلومات عني",
   description_EN: "A few code snippets about me",
